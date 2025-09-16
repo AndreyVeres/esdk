@@ -1,5 +1,5 @@
 ## in root folder
 
-``
+```js
     docker-compose up --build
-``
+```
