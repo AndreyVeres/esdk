@@ -1,5 +1,7 @@
-## in root folder
+## Run
 
-``
-    docker-compose up --build
-``
+In root folder
+
+```
+docker-compose up --build
+```
