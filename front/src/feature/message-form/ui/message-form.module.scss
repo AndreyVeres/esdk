@@ -1,0 +1,17 @@
+.submitItem {
+    display: flex;
+    justify-content: flex-end;
+
+
+
+}
+
+
+.phoneInput {
+
+    &::-webkit-outer-spin-button,
+    &::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+}
