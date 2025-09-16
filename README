@@ -1,7 +1,4 @@
-## Run
+## in root folder run command
 
-In root folder
-
-```
+```bash
 docker-compose up --build
-```
