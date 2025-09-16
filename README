@@ -1,5 +1,1 @@
-## in root folder
-
-```js
-    docker-compose up --build
-```
+## in root folder run - docker-compose up --build
